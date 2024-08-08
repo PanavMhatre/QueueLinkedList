@@ -5,6 +5,12 @@ This is using a Queue based LinkedList. All the queue structure and linked list 
 
 Make sure to run the whole folder!
 
+Has code from:
+
+https://github.com/PanavMhatre/LinkedList
+
+https://github.com/PanavMhatre/MazeSolver
+
 Contributions are welcome! To contribute:
 
 1. Fork the repository.
